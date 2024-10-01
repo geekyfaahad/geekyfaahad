@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on buildin cms using flask,angular js <br>🌱 I’m currently learning Node.js
+🔭 I’m currently working on Building cms using flask,angular js <br>🌱 I’m currently learning Node.js
 
 
 ## 🌐 Socials:
